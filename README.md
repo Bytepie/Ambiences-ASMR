@@ -6,7 +6,7 @@ ASMR and other Ambiences flutter app. (on-going)
 ## For Audio 
 I am using [Assets Audio Player](https://pub.dev/packages/assets_audio_player "Assets Audio Player")
 
-## Problems to remaining
+## Remaining Problems
 - Seemless audio transitioning.
 - Proper Multiple Audio Loop controls.
 - More features & sounds.
