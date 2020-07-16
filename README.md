@@ -1,6 +1,6 @@
 # Ambiences-ASMR
 ASMR and other Ambiences flutter app. (on-going)
-<img width="700" alt="UI flow" src="https://github.com/Bytepie/Ambiences-ASMR/blob/master/Screenshot_1594888927.png">
+<img width="500" alt="UI flow" src="https://github.com/Bytepie/Ambiences-ASMR/blob/master/Screenshot_1594888927.png">
 
 
 ## For Audio 
